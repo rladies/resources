@@ -1,0 +1,93 @@
+.reveal {
+  background: #FFFFFF;
+  color: #181818;
+  font-size: 42px;
+}
+.reveal {
+  font-family: "Helvetica Neue",Helvetica,Arial,Verdana,Geneva,sans-serif;
+  font-size: 36px;
+  font-weight: normal;
+  letter-spacing: -0.02em;
+  color: #000;
+  background: url('images/R-LadiesGlobal_RBG_online_LogoOnly.png') top 20px right 20px no-repeat;
+  background-size: 80px 80px; }
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6, .reveal p {
+  color: #181818;
+  font-family: Arial, Helvetica, "Helvetica Neue", sans-serif;
+  
+}
+.reveal h1 {
+    font-size: 3.0em;
+    color: #88398A;
+}
+
+.reveal .controls .navigate-left,
+.reveal .controls .navigate-left.enabled {
+  border-right-color: #88398A; }
+
+.reveal .controls .navigate-right,
+.reveal .controls .navigate-right.enabled {
+  border-left-color: #88398A; }
+
+.reveal .controls .navigate-up,
+.reveal .controls .navigate-up.enabled {
+  border-bottom-color: #88398A; }
+
+.reveal .controls .navigate-down,
+.reveal .controls .navigate-down.enabled {
+  border-top-color: #88398A; }
+
+.reveal .controls .navigate-left.enabled:hover {
+  border-right-color: #88398A; }
+
+.reveal .controls .navigate-right.enabled:hover {
+  border-left-color: #88398A; }
+
+.reveal .controls .navigate-up.enabled:hover {
+  border-bottom-color: #88398A; }
+
+.reveal .controls .navigate-down.enabled:hover {
+  border-top-color: #88398A; }
+
+.reveal pre code {
+  background: #D3D3D3;
+  color: #181818;
+}
+
+
+.vega, .mark-group {
+  background: #181818;
+}
+
+
+.reveal section img{
+  border-style: none;
+  background: transparent;
+  box-shadow: 0 0 0;
+}
+
+.reveal pre code {
+font-size: 36px;
+max-height: 800px;
+line-height: 45px;}
+
+.reveal a {
+    color: #88398A;
+}
+
+.slides .header{
+  position:absolute;
+  top: -50%;
+  left: -50%;
+}
+.slides .footer{
+  position:absolute;
+  bottom: 50%;
+  left: -50%;
+}
+
+.reveal .progress {
+  background: #D3D3D3; }
+
+.reveal .progress span {
+  background: #88398A;}
