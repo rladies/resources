@@ -1,0 +1,59 @@
+\usetheme{Pittsburgh}
+
+\RequirePackage{pgf}
+
+\pgfdeclareimage[width=1.0\paperwidth]{rladies-header_2}{rladies-header_2}
+
+\setbeamertemplate{blocks}[rounded][shadow=true]
+\setbeamercovered{transparent}
+
+
+\definecolor{rladiesblack}{HTML}{181818}
+\definecolor{rladiesgray}{HTML}{D3D3D3}
+\definecolor{rladiespurple}{HTML}{88398A}
+\definecolor{rladiesviolet}{HTML}{562457}
+
+\setbeamercolor*{Title bar}{fg=rladiespurple}
+\setbeamercolor*{Location bar}{fg=rladiespurple,bg=rladiesgray}
+\setbeamercolor*{frametitle}{parent=Title bar}
+\setbeamercolor*{block title}{fg=rladiesblack,bg=white}
+\setbeamercolor*{block body}{bg=white,fg=rladiesblack}
+\setbeamercolor*{normal text}{bg=white,fg=rladiesblack}
+\setbeamercolor*{section in head/foot}{fg=rladiespurple,bg=white}
+
+\usecolortheme[named=rladiespurple]{structure}
+
+\setbeamerfont{section in head/foot}{size=\tiny,series=\normalfont}
+\setbeamerfont{frametitle}{size=\Large}
+\normalfont
+
+\setbeamertemplate{navigation symbols}{}
+
+\setbeamertemplate{frametitle}
+{
+  \vskip-\baselineskip
+  \vskip-0.2cm
+  \hskip 2cm\usebeamerfont*{frametitle}\insertframetitle
+  \vskip-0.10em
+  \hskip-2.5cm\usebeamerfont*{framesubtitle}\insertframesubtitle
+}
+
+\setbeamertemplate{headline}
+{
+  \pgfuseimage{rladies-header_2}
+  \vskip 0.0cm
+  \linethickness{0pt}
+}
+
+\setbeamertemplate{footline}
+{
+  \linethickness{0.25pt}
+  \framelatex{
+  \begin{beamercolorbox}[leftskip=.3cm,sep=0.1cm]{Location bar} 
+    \usebeamerfont{section in head/foot}
+    \insertshortauthor~|~\insertshorttitle
+    \hfill
+    \insertframenumber/\inserttotalframenumber
+  \end{beamercolorbox}}
+}
+
