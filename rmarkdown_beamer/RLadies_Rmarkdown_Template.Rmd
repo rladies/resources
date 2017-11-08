@@ -1,0 +1,52 @@
+---
+title: "Your Title here"
+author: "your name and name@raldies.org"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  beamer_presentation:
+    theme: RLadies
+    fonttheme: "professionalfonts"
+    slide_level: 2
+    toc: true
+    includes:
+     #in_header: header.tex Uncomments if you need to use some specific packages and put in this       file
+---
+# First outline
+
+## Slide title 
+```{r eval = FALSE}
+library(dplyr)
+rladies_global %>% filter(city == 'Strasbourg')
+
+```
+
+
+## Slide title
+
+<!-- \begin{center} -->
+<!-- \includegraphics[width=0.7\textwidth]{Woman_package.png} -->
+<!-- \end{center} -->
+
+\small{source: http://blog.revolutionanalytics.com/2016/09/all-the-r-ladies.html}
+
+## Third title
+
+
+
+# Second outline
+## Slide title
+
+R-Ladies was created in 2012 in San Francisco by Gabriela de Queiroz founded and it was the first women-focused R user group. 
+
+Currently, "R Ladies" concept has expanded to a global franchise of 46 active group and many other that are starting to be organized.
+
+
+## 
+> \textbf{\huge\color{rladiespurple}{{Thank you for your attention}}}
+
+
+> \textbf{\huge\color{rladiespurple}{{Any questions or ideas?}}}
+
+
+
+
