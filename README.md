@@ -1,10 +1,10 @@
+<img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300px" />
+
 # R-Ladies resources
 Various resources for R-Ladies Global and to be shared across chapters
  - 
  - 
  - Github hosted presentations
- 
- ![](https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png)
 
 ## Github hosted presentations
 
@@ -71,11 +71,11 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  * Cape Town – South África ([Global Repo](https://github.com/rladies/meetup-presentations_capetown))
 
 **Asia**
-- Taipei – Taiwan ([Global Repo](https://github.com/rladies/meetup-presentations_taipei), [Taipei Github](https://github.com/rladiestaipei)
+- Taipei – Taiwan ([Global Repo](https://github.com/rladies/meetup-presentations_taipei), [Taipei Github](https://github.com/rladiestaipei))
 
 
 **Australia**
- * Melbourne – Australia ([Global Repo](https://github.com/rladies/meetup-presentations_melbourne),[Melbourne Github](https://github.com/R-LadiesAU))
+ * Melbourne – Australia ([Global Repo](https://github.com/rladies/meetup-presentations_melbourne), [Melbourne Github](https://github.com/R-LadiesAU))
  * Adelaide – Australia ([Global Repo](https://github.com/rladies/meetup-presentations_adelaide))
  
 **New Zealand**
