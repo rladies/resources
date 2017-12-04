@@ -2,8 +2,6 @@
 
 # R-Ladies resources
 Various resources for R-Ladies Global and to be shared across chapters
- - 
- - 
  - Github hosted presentations
 
 ## Github hosted presentations
