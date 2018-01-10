@@ -57,11 +57,31 @@
   \end{beamercolorbox}}
 }
 
+
 % To add the chapter dplyr code in the top left corner of only the main slide
-\IfFileExists{main-left-header.png}{
-\usepackage{textpos}
+
+% Define the colors used in the R editor  
+\RequirePackage{xcolor} 
+\definecolor{blueRcode}{RGB}{11,36,251}
+\definecolor{greenRcode}{RGB}{13,105,18}
+\definecolor{greyRcode}{RGB}{104,118,134}
+
+% Define the variable city
+\gdef\@city{}
+\newcommand{\city}[1]{\gdef\@city{#1}}
+
+\renewcommand{\_}{{\fontfamily{ptm}\selectfont\textunderscore}}
+
+\RequirePackage{textcomp} % \textquotesingle (straight simple quotation mark), \textgreater (greater symbol >), \textdblhyphen (equal symbol =)
+
+\RequirePackage{textpos}
 \addtobeamertemplate{title page}{
-    \begin{textblock*}{\paperwidth}(-1em, -3.3em)
-        \includegraphics[width=0.3\linewidth]{./main-left-header.png}
+    \begin{textblock*}{\paperwidth}(-1em, -3em)
+        \textbf{\texttt{
+        \hspace{-0.5em}{\color{blueRcode}library}{\color{greyRcode}(}dplyr{\color{greyRcode})} \\
+        rladies\_global {\color{greyRcode}{\footnotesize \%\textgreater\%}}  \\ 
+        \hspace{0.5em} {\color{greyRcode}filter}{\color{greyRcode}(}city {\color{greyRcode}{\footnotesize \textdblhyphen \textdblhyphen}} {\color{greenRcode}\textquotesingle \@city \textquotesingle}{\color{greyRcode})}
+        } 
+        }
     \end{textblock*} 
-}{}}{}
+}{} 

@@ -1,6 +1,6 @@
 ---
 title: "Your Title here"
-author: "your name and name@raldies.org"
+author: "your name and name@rladies.org"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   beamer_presentation:
@@ -10,6 +10,8 @@ output:
     toc: true
     includes:
      #in_header: header.tex Uncomments if you need to use some specific packages and put in this       file
+header-includes:
+   - \city{Lima}
 ---
 # First outline
 
