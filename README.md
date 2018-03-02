@@ -10,6 +10,8 @@ Great example Global R-Ladies repo include [Berlin](https://github.com/rladies/m
 
 Every chapter gets an R-Ladies Global repo to help store and share their awesome events presentation. (Some chapters have created their own chapter github account, you don't have to, you can have an R-Ladies Global Repo with team admin on your repo). Please email [info]@[rladies.org] to be set up please provide your github name and which chapter you are organising.  
 
+### :warning: For OFFICIAL list of current chapter please find [here](https://github.com/rladies/starter-kit/blob/master/Current-Chapters.md) :warning:
+
 **North America**
 
  * San Francisco, California – US ([Global Repo](https://github.com/rladies/meetup-presentations_sanfrancisco), [SF github](https://github.com/R-ladies))
