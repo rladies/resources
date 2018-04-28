@@ -100,4 +100,9 @@ knitr::include_url('http://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_
 ```
 
 
+* [Angela Li's](https://twitter.com/CivicAngela) slides for ["Introduction to Spatial Data Analysis and Mapping in R"](https://angela-li.github.io/slides/2018-04-26/rladies-spatial-data#1)
 
+
+```{r echo = FALSE}
+knitr::include_url('https://angela-li.github.io/slides/2018-04-26/rladies-spatial-data#1')
+```
