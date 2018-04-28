@@ -1,7 +1,7 @@
 R-Ladies presentation ninja
 ================
 Alison Hill
-2018-02-18
+2018-04-28
 
 So, you are doing an [R-Ladies](https://rladies.org) presentation...that's awesome!
 
@@ -81,6 +81,10 @@ Examples!
 -   [Jessica Minnier's](http://jessicaminnier.com) slides for ["Building Shiny Apps: With Great Power Comes Great Responsibility"](http://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1)
 
 [![](how_to_use_files/figure-markdown_github/unnamed-chunk-4-1.png)](http://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1)
+
+-   [Angela Li's](https://twitter.com/CivicAngela) slides for ["Introduction to Spatial Data Analysis and Mapping in R"](https://angela-li.github.io/slides/2018-04-26/rladies-spatial-data#1)
+
+[![](how_to_use_files/figure-markdown_github/unnamed-chunk-5-1.png)](https://angela-li.github.io/slides/2018-04-26/rladies-spatial-data#1)
 
 [1] If you are new to [**xaringan**](https://github.com/yihui/xaringan), don't miss the [wiki!](https://github.com/yihui/xaringan/wiki)
 
