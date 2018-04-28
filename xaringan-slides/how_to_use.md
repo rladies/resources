@@ -1,7 +1,7 @@
 R-Ladies presentation ninja
 ================
 Alison Hill
-2018-02-18
+2018-04-28
 
 So, you are doing an [R-Ladies](https://rladies.org) presentation...that's awesome!
 
@@ -27,8 +27,10 @@ Make sure your version of **xaringan** is up-to-date.
 
 ![](./how_to_use_files/img/rladies-demo-slides.png) Below is a [demo slide deck](https://alison.rbind.io/slides/rladies-demo-slides.html#1) using the theme, which also highlights some of the **xaringan** bells and whistles you can use.
 
-[![](how_to_use_files/figure-markdown_github/unnamed-chunk-1-1.png)](https://alison.rbind.io/slides/rladies-demo-slides.html#1)
+    ## PhantomJS not found. You can install it with webshot::install_phantomjs(). If it is installed, please make sure the phantomjs executable can be found via the PATH variable.
 
+<iframe src="https://alison.rbind.io/slides/rladies-demo-slides.html#1" width="100%" height="400px">
+</iframe>
 (view the [source .Rmd on GitHub](https://github.com/rbind/apreshill/blob/master/static/slides/rladies-demo-slides.Rmd))
 
 The longer story
@@ -76,11 +78,16 @@ Examples!
 
 -   My blogdown workshop slides: ["Up and running with blogdown"](http://127.0.0.1:4321/talk/blogdown-meetup/) (view the [source .Rmd on GitHub](https://github.com/rbind/apreshill/blob/master/static/slides/blogdown-workshop-slides.Rmd))
 
-[![](how_to_use_files/figure-markdown_github/unnamed-chunk-3-1.png)](https://alison.rbind.io/slides/blogdown-workshop-slides.html#1)
-
+<iframe src="https://alison.rbind.io/slides/blogdown-workshop-slides.html#1" width="100%" height="400px">
+</iframe>
 -   [Jessica Minnier's](http://jessicaminnier.com) slides for ["Building Shiny Apps: With Great Power Comes Great Responsibility"](http://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1)
 
-[![](how_to_use_files/figure-markdown_github/unnamed-chunk-4-1.png)](http://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1)
+<iframe src="http://jminnier-talks.netlify.com/2018_02_shiny_csp/minnier_csp2018#1" width="100%" height="400px">
+</iframe>
+-   [Angela Li's](https://twitter.com/CivicAngela) slides for ["Introduction to Spatial Data Analysis and Mapping in R"](https://angela-li.github.io/slides/2018-04-26/rladies-spatial-data#1)
+
+<iframe src="https://angela-li.github.io/slides/2018-04-26/rladies-spatial-data#1" width="100%" height="400px">
+</iframe>
 
 [1] If you are new to [**xaringan**](https://github.com/yihui/xaringan), don't miss the [wiki!](https://github.com/yihui/xaringan/wiki)
 
