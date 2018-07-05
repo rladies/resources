@@ -46,6 +46,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  *  Mexico City – Mexico ([Global Repo](https://github.com/rladies/meetup-presentations_cdmx))
  *  San José – Costa Rica ([Global Repo](https://github.com/rladies/meetup-presentations_sanjose))
  *  Lima - Perú ([Global Repo](https://github.com/rladies/meetup-presentations_lima))
+ *  Santa Fe - Argentina ([Global Repo](https://github.com/rladies/meetup-presentations_santafe))
  
 **Europe**
 
