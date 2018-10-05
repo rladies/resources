@@ -32,6 +32,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  * Portland Oregon - ([Global Repo](https://github.com/rladies/meetup-presentations_portland), [PDX github](https://github.com/rladies-pdx))
  * Charlotteville,VA - US ([Global Repo](https://github.com/rladies/meetup-presentations_charlottesville), [Charlotteville github](https://github.com/RLadiesCharlottesville))
  * Vancouver, BC - CA ([Global Repo](https://github.com/rladies/meetup-presentations_vancouver), [Vancouver github](https://github.com/RLadiesVancouver))
+ * Baltimore, MD - US ([Global Repo](https://github.com/rladies/meetup-presentations_baltimore, [Baltimore github](https://github.com/rladies-baltimore))
  * Twin Cities, MN - US ([Global Repo](https://github.com/rladies/meetup-presentations_twincities), [Twin Cities github](https://github.com/rladiestc))
  * St Louis, MO - US ([Global Repo](https://www.meetup.com/R-Ladies-St-Louis)
  
