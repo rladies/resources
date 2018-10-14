@@ -32,7 +32,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  * Portland, Oregon - US ([Global Repo](https://github.com/rladies/meetup-presentations_portland), [PDX GitHub](https://github.com/rladies-pdx))
  * Charlottesville, Virginia - US ([Global Repo](https://github.com/rladies/meetup-presentations_charlottesville), [Charlottesville GitHub](https://github.com/RLadiesCharlottesville))
  * Vancouver, British Columbia - Canada ([Global Repo](https://github.com/rladies/meetup-presentations_vancouver), [Vancouver GitHub](https://github.com/RLadiesVancouver))
- * Baltimore, Maryland - US ([Global Repo](https://github.com/rladies/meetup-presentations_baltimore, [Baltimore github](https://github.com/rladies-baltimore))
+ * Baltimore, Maryland - US ([Global Repo](https://github.com/rladies/meetup-presentations_baltimore), [Baltimore GitHub](https://github.com/rladies-baltimore))
  * Twin Cities, Minnesota - US ([Global Repo](https://github.com/rladies/meetup-presentations_twincities), [Twin Cities GitHub](https://github.com/rladiestc))
  * St. Louis, Missouri - US ([Global Repo](https://www.meetup.com/R-Ladies-St-Louis)
  * Irvine, California - US ([Global Repo](https://github.com/rladies/meetup-presentations_irvine), [Irvine GitHub](https://github.com/rladies-irvine))
@@ -71,7 +71,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  * Istanbul – Turkey ([Global Repo](https://github.com/rladies/meetup-presentations_istanbul))
  * Tbilisi – Georgia ([Global Repo](https://github.com/rladies/meetup-presentations_tbilisi), [Tbilisi GitHub](https://github.com/rladiestbilisi))
  * Montenegro - Montenegro ([Global Repo](https://github.com/rladies/meetup-presentations_montenegro), [Montenegro GitHub](https://github.com/RLadiesMontenegro))
- 
+ * Belgrade - Serbia ([Belgrade GitHub](https://github.com/RLadiesBelgrade))
  
 **Africa**
  * Cape Town – South Africa ([Global Repo](https://github.com/rladies/meetup-presentations_capetown))
@@ -84,7 +84,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  * Adelaide – Australia ([Global Repo](https://github.com/rladies/meetup-presentations_adelaide))
  
 **New Zealand**
-* Auckland - New Zealand ([Global Repo](https://github.com/rladies/meetup-presentations_auckland),[Auckland GitHub](https://github.com/R-LadiesAKL))
+* Auckland - New Zealand ([Global Repo](https://github.com/rladies/meetup-presentations_auckland), [Auckland GitHub](https://github.com/R-LadiesAKL))
 
  **Not set up yet**
   - Valencia – Spain (not started yet)
@@ -92,4 +92,3 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
   - Izmir – Turkey (not had presentation/workshop/resources event yet)
   - Buffalo, New York – US (not had presentation/workshop/resources event yet)
   - Natal – Brazil (not started yet)
-  - Belgrade - Serbia (not started yet https://github.com/RLadiesBelgrade)
