@@ -1,6 +1,6 @@
 ## 2018
 
-- 2018-11-17: Why the future isn’t female in computing ([source](https://ar.ivoox.com/es/programa-nro-38-audios-mp3_rf_30137471_1.html); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2018/2018-11-17_El capítulo RladiesRciaCtes como promotor de la diversidad de género en el Nea))
+- 2018-11-17: La comunidad RLadies y el capítulo RLadiesRciaCtes como promotor de la diversidad de género en el Nea ([source](https://ar.ivoox.com/es/programa-nro-38-audios-mp3_rf_30137471_1.html); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2018/2018-11-17_El capítulo RladiesRciaCtes como promotor de la diversidad de género en el Nea))
 
 - 2018-10-22: Why the future isn’t female in computing ([source](https://www.economist.com/graphic-detail/2018/10/22/why-the-future-isnt-female-in-computing); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2018/2018-10-22_Why-the-future-isnt-female-in-computing.pdf))
 
