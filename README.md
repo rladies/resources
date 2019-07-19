@@ -66,7 +66,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  * Strasbourg – France ([Global Repo](https://github.com/rladies/meetup-presentations_strasbourg), [Strasbourg GitHub](https://github.com/R-Ladies-Strasbourg))
  * Milan – Italy ([Global Repo](https://github.com/rladies/meetup-presentations_milan))
  * Warsaw – Poland ([Global Repo](https://github.com/rladies/meetup-presentations_warsaw))
- * Rotterdam – Netherlads ([Global Repo](https://github.com/rladies/meetup-presentations_rotterdam)) 
+ * Rotterdam – The Netherlands ([Global Repo](https://github.com/rladies/meetup-presentations_rotterdam)) 
  
 **Europe-Asia**
  * Istanbul – Turkey ([Global Repo](https://github.com/rladies/meetup-presentations_istanbul))
