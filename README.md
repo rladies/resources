@@ -25,7 +25,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
  * Ames, Iowa – US ([Global Repo](https://github.com/rladies/meetup-presentations_ames), [Ames GitHub](https://github.com/rladies-ames))
  * Baltimore, Maryland - US ([Global Repo](https://github.com/rladies/meetup-presentations_baltimore), [Baltimore GitHub](https://github.com/rladies-baltimore))
  * Boston, Massachusetts – US ([Global Repo](https://github.com/rladies/meetup-presentations_boston))
- * East Lansing, Michigan – US ([Global Repo](https://github.com/rladies/meetup-presentations_eastlansing), [East Lansing GitHub](https://github.com/rladies-eastlansing))
+ * East Lansing, Michigan – US ([Global Repo](https://github.com/rladies/meetup-presentations_east-lansing), [East Lansing GitHub](https://github.com/rladies-eastlansing))
  * Twin Cities, Minnesota - US ([Global Repo](https://github.com/rladies/meetup-presentations_twincities), [Twin Cities GitHub](https://github.com/rladiestc))
  * St. Louis, Missouri - US ([Global Repo](https://www.meetup.com/R-Ladies-St-Louis)
  * New York City, New York – US ([Global Repo](https://github.com/rladies/meetup-presentations_newyork), [New York GitHub](https://github.com/rladies-nyc))
