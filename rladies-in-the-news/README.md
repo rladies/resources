@@ -41,7 +41,7 @@
 
 - 2017-10-12: Women in tech aim to grow next generation's interest beyond family ties ([source](https://www.orlandosentinel.com/business/technology/os-bz-women-technology-challenges-20171012-story.html); [pdf]())
 
-- 2017-09-06: Ellas programan en uno de los lenguajes más duros del mercado ([source] https://www.infotechnology.com/entreprenerds/Ellas-programan-en-uno-de-los-lenguajes-mas-duros-del-mercado-20170906-0004.html))
+- 2017-09-06: Ellas programan en uno de los lenguajes más duros del mercado ([source]( https://www.infotechnology.com/entreprenerds/Ellas-programan-en-uno-de-los-lenguajes-mas-duros-del-mercado-20170906-0004.html))
 
 - 2017-08-11: Diferentes na biologia sim. Inferiores não, dizem mulheres na tecnologia ([source](https://www.delas.pt/diferentes-na-biologia-sim-inferiores-nao-dizem-mulheres-na-tecnologia/); [pdf]())
 
