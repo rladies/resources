@@ -3,13 +3,13 @@
 
 - 2019-10-14: Hoy tenemos más tiempo para entender cómo se están utilizando los modelos de Machine Learning y poder interpretarlos ([source](http://datamining.dc.uba.ar/predictivos/?p=1101))
 
-- 2019-08-26: The R-Ladies Revolution ([source](https://www.nceas.ucsb.edu/news/r-ladies-revolution); [pdf]())
+- 2019-08-26: The R-Ladies Revolution ([source](https://www.nceas.ucsb.edu/news/r-ladies-revolution); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2019/2019-08-26_The_R-Ladies_Revolution.pdf))
 
-- 2019-07-24: How R-Ladies made data science inclusive ([source](https://qz.com/work/1661486/r-ladies-made-data-science-inclusive/); [pdf]())
+- 2019-07-24: How R-Ladies made data science inclusive ([source](https://qz.com/work/1661486/r-ladies-made-data-science-inclusive/); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2019/2019-07-24_R-Ladies_made_data_science_inclusive.pdf))
 
-- 2019-05-13: A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light ([source](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup); [pdf]())
+- 2019-05-13: A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light ([source](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2019/2019-05-13_What_Happened_When_DataCamp_Tried_To_Cover_Up_Its_CEOs_Sexual_Misconduct.pdf))
 
-- 2019-04-17: R community blasts DataCamp response to exec's 'inappropriate behavior' ([source](https://www.computerworld.com/article/3389684/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior.html); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2019/2019-04-14_Why-the-future-isnt-female-in-computing.pdf))
+- 2019-04-17: R community blasts DataCamp response to exec's 'inappropriate behavior' ([source](https://www.computerworld.com/article/3389684/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior.html); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2019/2019-04-17_R_Community_Blasts_DataCamp.pdf))
 
 - 2019-04-03: Día de la empleada doméstica. Los números del sector más desprotegido ([source](https://www.cronista.com/economiapolitica/Dia-de-la-empleada-domestica-los-numeros-del-sector-mas-desprotegido-20190403-0052.html))
 
