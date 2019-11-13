@@ -1,6 +1,8 @@
 
 ## 2019
 
+- 2019-10-14: Hoy tenemos más tiempo para entender cómo se están utilizando los modelos de Machine Learning y poder interpretarlos ([source](http://datamining.dc.uba.ar/predictivos/?p=1101))
+
 - 2019-04-03: Día de la empleada doméstica. Los números del sector más desprotegido ([source](https://www.cronista.com/economiapolitica/Dia-de-la-empleada-domestica-los-numeros-del-sector-mas-desprotegido-20190403-0052.html))
 
 
