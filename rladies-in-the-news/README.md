@@ -1,3 +1,9 @@
+
+## 2019
+
+- 2019-04-03: Día de la empleada doméstica. Los números del sector más desprotegido ([source](https://www.cronista.com/economiapolitica/Dia-de-la-empleada-domestica-los-numeros-del-sector-mas-desprotegido-20190403-0052.html))
+
+
 ## 2018
 
 - 2018-10-22: Why the future isn’t female in computing ([source](https://www.economist.com/graphic-detail/2018/10/22/why-the-future-isnt-female-in-computing); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2018/2018-10-22_Why-the-future-isnt-female-in-computing.pdf))
