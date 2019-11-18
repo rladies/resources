@@ -1,6 +1,8 @@
 
 ## 2019
 
+- 2019-04-03: Hay que perder ese miedo irracional a las matemáticas ([source](https://innovando.larioja.com/perder-miedo-irracional-20190327003809-ntvo.html)
+
 - 2019-10-14: Hoy tenemos más tiempo para entender cómo se están utilizando los modelos de Machine Learning y poder interpretarlos ([source](http://datamining.dc.uba.ar/predictivos/?p=1101))
 
 - 2019-08-26: The R-Ladies Revolution ([source](https://www.nceas.ucsb.edu/news/r-ladies-revolution); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2019/2019-08-26_The_R-Ladies_Revolution.pdf))
