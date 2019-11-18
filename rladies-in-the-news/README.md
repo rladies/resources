@@ -1,7 +1,7 @@
 
 ## 2019
 
-- 2019-04-03: Hay que perder ese miedo irracional a las matemáticas ([source](https://innovando.larioja.com/perder-miedo-irracional-20190327003809-ntvo.html)
+- 2019-04-03: Hay que perder ese miedo irracional a las matemáticas ([source](https://innovando.larioja.com/perder-miedo-irracional-20190327003809-ntvo.html))
 
 - 2019-10-14: Hoy tenemos más tiempo para entender cómo se están utilizando los modelos de Machine Learning y poder interpretarlos ([source](http://datamining.dc.uba.ar/predictivos/?p=1101))
 
@@ -20,7 +20,7 @@
 
 - 2018-10-22: Why the future isn’t female in computing ([source](https://www.economist.com/graphic-detail/2018/10/22/why-the-future-isnt-female-in-computing); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2018/2018-10-22_Why-the-future-isnt-female-in-computing.pdf))
 
-
+- 2018-08-22: La calculadora mágica de los científicos de datos cumple 25 años ([source](https://retina.elpais.com/retina/2018/08/22/tendencias/1534935352_747125.html))
 
 - 2018-09-07: Programación - La calculadora mágica de los científicos de datos cumple 25 años ([source](https://retina.elpais.com/retina/2018/08/22/tendencias/1534935352_747125.html); [pdf]())
 
