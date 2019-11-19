@@ -67,4 +67,4 @@
 
 - 2017-08-11: Diferentes na biologia sim. Inferiores não, dizem mulheres na tecnologia ([source](https://www.delas.pt/diferentes-na-biologia-sim-inferiores-nao-dizem-mulheres-na-tecnologia/); [pdf]())
 
-
+- 2017-06-26: El aporte silencioso a la agroinformática. ([source](http://ria.inta.gob.ar/contenido/el-aporte-silencioso-la-agroinformatica); [pdf]())
