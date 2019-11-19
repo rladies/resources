@@ -1,6 +1,8 @@
 
 ## 2019
 
+- 2019-04-09: Mujeres que forman redes para lograr un sitio en la ciencia ([source](https://www.innovadorastic.org/mujeres-que-forman-redes-para-lograr-un-sitio-en-la-ciencia/))
+
 - 2019-04-03: Hay que perder ese miedo irracional a las matemáticas ([source](https://innovando.larioja.com/perder-miedo-irracional-20190327003809-ntvo.html))
 
 - 2019-10-14: Hoy tenemos más tiempo para entender cómo se están utilizando los modelos de Machine Learning y poder interpretarlos ([source](http://datamining.dc.uba.ar/predictivos/?p=1101))
@@ -17,6 +19,10 @@
 
 
 ## 2018
+
+- 2018-05-28: Reciclé mi vida profesional por completo haciendo cursos gratuitos de Coursera sobre data science ([source](https://www.xataka.com/empresas-y-economia/recicle-mi-vida-profesional-completo-haciendo-cursos-gratuitos-coursera-data-science))
+
+- 2018-10-31: Las startups españolas necesitan mujeres programadoras: estas iniciativas quieren encontrarlas ([source](https://www.fundacionbankinter.org/blog/noticia/emprendedores/las-startups-espanolas-necesitan-mujeres-programadoras-estas-iniciativas-quieren-encontrarlas))
 
 - 2018-10-22: Why the future isn’t female in computing ([source](https://www.economist.com/graphic-detail/2018/10/22/why-the-future-isnt-female-in-computing); [pdf](https://github.com/rladies/resources/blob/master/rladies-in-the-news/2018/2018-10-22_Why-the-future-isnt-female-in-computing.pdf))
 
@@ -43,6 +49,10 @@
 - 2018-01-03: ‘The R community is doing really well in gender diversity’** ([source](https://technical.ly/philly/2018/01/03/r-ladies-philly-meetup/); [pdf]())
 
 ## 2017
+
+- 2017-05-29: Más mujeres en las competiciones de datos ([source](https://www.eldiario.es/desigualdadblog/mujeres-competiciones-datos_6_647845226.html))
+ 
+- 2017-05-29: La llamada del dato ([source](https://blogs.20minutos.es/mas-de-la-mitad/2017/05/))
 
 - 2017-12-27: Teaching Students To Ask Questions, Take Risks ([source](https://www.srqmagazine.com/srq-daily/2017-12-27/7470_Teaching-Students-To-Ask-Questions--Take-Risks); [pdf]())
 
