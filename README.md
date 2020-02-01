@@ -78,6 +78,7 @@ Every chapter gets an R-Ladies Global repo to help store and share their awesome
 
 **Asia**
 - Taipei – Taiwan ([Global Repo](https://github.com/rladies/meetup-presentations_taipei), [Taipei GitHub](https://github.com/rladiestaipei))
+- Pune – India ([Global Repo](https://github.com/rladies/meetup-presentations_pune))
 
 **Australia**
  * Adelaide – Australia ([Global Repo](https://github.com/rladies/meetup-presentations_adelaide))
