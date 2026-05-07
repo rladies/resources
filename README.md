@@ -1,14 +1,14 @@
 <img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width="300px" />
 
-# R-Ladies Resources
-Various resources for R-Ladies Global and to be shared across chapters
+# RLadies+ Resources
+Various resources for RLadies+ Global and to be shared across chapters
  - Github hosted presentations
 
 ## Github hosted presentations
 
-Great example Global R-Ladies repo include [Berlin](https://github.com/rladies/meetup-presentations_berlin/), [Tbilisi](https://github.com/rladies/meetup-presentations_tbilisi), [RTP](https://github.com/rladies/meetup-presentations_rtp) and [Buenos Aires](https://github.com/rladies/meetup-presentations_buenosaires). 
+Great example Global RLadies+ repo include [Berlin](https://github.com/rladies/meetup-presentations_berlin/), [Tbilisi](https://github.com/rladies/meetup-presentations_tbilisi), [RTP](https://github.com/rladies/meetup-presentations_rtp) and [Buenos Aires](https://github.com/rladies/meetup-presentations_buenosaires). 
 
-Every chapter gets an R-Ladies Global repo to help store and share their awesome events presentation. (Some chapters have created their own chapter github account, you don't have to, you can have an R-Ladies Global Repo with team admin on your repo). Please email [info]@[rladies.org] to be set up please provide your github name and which chapter you are organising.  
+Every chapter gets an RLadies+ Global repo to help store and share their awesome events presentation. (Some chapters have created their own chapter github account, you don't have to, you can have an RLadies+ Global Repo with team admin on your repo). Please email [info]@[rladies.org] to be set up please provide your github name and which chapter you are organising.  
 
 ### :warning: For the OFFICIAL list of current chapters, please click [here](https://github.com/rladies/starter-kit/blob/master/Current-Chapters.csv) :warning:
 
